@@ -1,0 +1,1 @@
+This is a project where I will build a basic recipe site. The goal is to use basic HTML skills such as formatting, links, and lists.
